@@ -1,3 +1,10 @@
+#We are MNC company  for groceries & suppliers send stock list excel sheet on a daily basis.
+#There are chances of duplication of data ,
+#Create a python program using pandas to upload sheet in gui & remove duplicate data.
+#Usee set also 
+
+
+
 import pandas as pd
 from tkinter import Tk, filedialog, Button, Label
 from tkinter.messagebox import showinfo
